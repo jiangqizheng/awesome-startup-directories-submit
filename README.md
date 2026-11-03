@@ -184,6 +184,7 @@ If you're building with AI, these directories have huge search traffic.
 | [AI Agents List](https://aiagentslist.com) | Curated list of AI agents. | Paid | $29 or $49 one-time, refund if not approved. |
 | [GPTs Hunter](https://www.gptshunter.com) | Directory of custom GPTs from the GPT Store. | Free | For custom GPTs. DR 53, nofollow (per SubmitSaaS, Oct 2026). |
 | [MCP.so](https://mcp.so) | Directory of Model Context Protocol (MCP) servers. | | Paid $39 option for immediate publishing, featured placement, dofollow link. |
+| [MeetNewAI](https://meetnewai.com) | Free bilingual AI tools, agents, games, and MCP directory by job-to-be-done. | Free | |
 | [AI Valley](https://aivalley.ai) | Newest AI tools and prompts. | | |
 | [Insidr.ai](https://www.insidr.ai) | AI tools directory and reviews for business. | | |
 | [Toolpilot](https://www.toolpilot.ai) | AI tools directory with coupon codes and guides. | Conditional free* | DR 79, dofollow (per SubmitSaaS, Oct 2026). |
